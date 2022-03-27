@@ -1,5 +1,9 @@
 # TrajectoryLearning
 
+<p align="center">
+<img src="https://i.natgeofe.com/k/88de42b8-764c-40d2-89ee-e72d55dc95b8/emperor-penguin-chicks_4x3.jpg" width="700" height="500">
+</p>
+
 ### Changes to improve accuracy in Orbit learning:
 
 1. first decrease the meash grid, as they are not so necessary ($m = 5$ works fine)
