@@ -1,6 +1,7 @@
 # TrajectoryLearning
 
 <p align="center">
+  <img src="https://github.com/maneesh51/TrajectoryLearning/blob/main/TrjGen.png" width="500" height="500">
 <img src="https://github.com/maneesh51/TrajectoryLearning/blob/main/TrjGen.png" width="500" height="500">
 </p>
 
