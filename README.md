@@ -1,8 +1,8 @@
 # TrajectoryLearning
 
 <p align="center">
-<img src="https://github.com/maneesh51/TrajectoryLearning/blob/main/Vectorfield.png" width="500" height="500">
-<img src="https://github.com/maneesh51/TrajectoryLearning/blob/main/TrjGen.png" width="500" height="500">
+<img src="https://github.com/maneesh51/TrajectoryLearning/blob/main/Vectorfield.png" width="300" height="300">
+<img src="https://github.com/maneesh51/TrajectoryLearning/blob/main/TrjGen.png" width="300" height="300">
 </p>
 
 ### Changes to improve accuracy in Orbit learning:
